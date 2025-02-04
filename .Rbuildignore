@@ -1,2 +1,11 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^Old Functions
+^BenchUtilFunctions
+^Research_Code
+^codecov\.yml$
+^README\.Rmd$
+^LICENSE$
+^doc$
+^Meta$
+^\.github$
